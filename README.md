@@ -1,18 +1,18 @@
-# mean-stack-angular-7-crud-app-example
-A step by step  MEAN Stack Tutorial from which you will learn to build Angular 7 CRUD App with Bootstrap 4, MongoDB, NodeJS and Express JS from scratch.
+# Laravel-angular-7-crud-app-example
+A step by step Tutorial from which you will learn to build Angular 7 CRUD App with Bootstrap 4, laravel, from scratch.
 
 This project was built with Angular CLI version 7.2.3.
 
-Step by step article on [MEAN Stack Tutorial – Angular 7 CRUD App with Bootstrap 4
-](https://www.positronx.io/mean-stack-tutorial-angular-7-crud-bootstrap/)
+Step by step article on [Laravel – Angular 7 CRUD App with Bootstrap 4
+
 
 ## How to run the app?
 - Run `npm install` to install required dependencies.
 - Run `ng serve` to run the angular app
-- Start the MEAN Stack backend
+- Start the laravel backend
   - `cd backend` to enter into the backend folder
-  - `nodemon server` to start the nodemon server
-  - `mongod` to start the mongoDB shell
+  - run `pgp artisan serve`  to start the backend
+ 
 
 ## Development server
 
