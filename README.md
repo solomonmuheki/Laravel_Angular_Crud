@@ -3,7 +3,7 @@ A step by step Tutorial from which you will learn to build Angular 7 CRUD App wi
 
 This project was built with Angular CLI version 7.2.3.
 
-Step by step article on [Laravel – Angular 7 CRUD App with Bootstrap 4
+Step by step article on [ Laravel – Angular 7 CRUD App with Bootstrap 4
 
 
 ## How to run the app?
@@ -11,7 +11,7 @@ Step by step article on [Laravel – Angular 7 CRUD App with Bootstrap 4
 - Run `ng serve` to run the angular app
 - Start the laravel backend
   - `cd backend` to enter into the backend folder
-  - run `pgp artisan serve`  to start the backend
+  - run `php artisan serve`  to start the backend
  
 
 ## Development server
